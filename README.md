@@ -12,7 +12,7 @@
 
 ##Como funciona o algoritmo:
 
-1.Solicita os valores de largura, comprimento e valor por metro quadrado.
+1.Solicita os valores de largura, comprimento e valor por metro quadrado
 2. Calcula a área total.
 3. Calcula o preço estimado do terreno.
 4. Exibe os resultados com formatação numérica.
