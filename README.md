@@ -6,14 +6,17 @@
 
 ##As tecnologias utilizadas:
 
-Linguagem: Portugol
-Editor: Visual Studio Code
+-Linguagem: Portugol
+
+-Editor: Visual Studio Code
+
 ##Como funciona o algoritmo:
 
 Solicita os valores de largura, comprimento e valor por metro quadrado.
-Calcula a área total.
-Calcula o preço estimado do terreno.
-Exibe os resultados com formatação numérica.
+1. Calcula a área total.
+2. Calcula o preço estimado do terreno.
+3. Exibe os resultados com formatação numérica.
+
 ##Como executar:
 
 Abra o código '.por' no visual studio code (pode ser no visualg ou em um interpretador compatível com o Portugol). Insira os valores solicitados no terminal.
